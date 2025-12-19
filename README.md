@@ -3,7 +3,7 @@
 </button>
 <p><big>パック開封</big></p>
 <div class="img-wrapper">
-  <img src="" alt="画像">
+  <img src="CCF_000001.jpg" alt="パックの画像">
 </div>
 
 <style>
